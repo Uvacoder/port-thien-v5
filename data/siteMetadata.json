@@ -1,0 +1,22 @@
+{
+  "title": "thien v4",
+  "author": "Thien Tran",
+  "headerTitle": "Thien Tran",
+  "description": "You've found my personal space on the internet.",
+  "language": "en-us",
+  "siteUrl": "https://thientran.me",
+  "siteRepo": "https://github.com/thnmtrn/blog",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/thien-blog-logo.png",
+  "email": "hi@thientran.me",
+  "github": "https://github.com/thnmtrn",
+  "twitter": "https://twitter.com/thnmtrn",
+  "discord": "https://discord.com/thien4420",
+  "dribbble": "https://discord.com/thien4420",
+  "facebook": "https://facebook.com",
+  "dev": "https://dev.to/thientran",
+  "youtube": "https://youtube.com",
+  "linkedin": "https://www.linkedin.com",
+  "coffee": "https://www.buymecoff.ee/thien",
+  "locale": "en-US"
+}
