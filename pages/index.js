@@ -65,14 +65,14 @@ export default function Home({ posts }) {
                             >
                               {title}
                             </Link>
-                            {/* <dl>
+                           
                       <dt className="sr-only">Published on</dt>
                       <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
                         <time dateTime={date}>
                           {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
                         </time>
                       </dd>
-                    </dl> */}
+                    
                           </h2>
                           <div className="flex flex-wrap mt-1">
                             {tags.map((tag) => (
@@ -115,7 +115,7 @@ export default function Home({ posts }) {
       )}
       <h1 className="text-3xl font-extrabold pt-10 pb-4">Recent Projects</h1>
 
-      {/* <ProjectCard
+      <ProjectCard
         title="project 1"
         description="asdfsf"
         href="https://thientran.me"
@@ -159,7 +159,7 @@ export default function Home({ posts }) {
         >
           More Projects &rarr;
         </Link>
-      </div> */}
+      </div>
 
       <h1 className="text-3xl font-extrabold pt-10">Latest Tweets</h1>
 
